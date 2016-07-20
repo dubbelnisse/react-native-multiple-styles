@@ -1,6 +1,6 @@
 {
   "name": "react-native-multiple-styles",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple utility for handeling mutiple styles (classes) in react-native",
   "main": "index.js",
   "scripts": {
