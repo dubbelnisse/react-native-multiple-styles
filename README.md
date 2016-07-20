@@ -30,3 +30,9 @@ multipleStyles(styles.icon, { [styles.iconRed]: false }) // => [1]
 ```
 
 It returns an array of the IDs representing the style objects. More info about that [here](https://facebook.github.io/react-native/docs/stylesheet.html).
+
+## Tests
+
+```sh
+npm test
+```
