@@ -6,10 +6,10 @@ module.exports = function() {
     if (typeof arguments[key] === 'object') {
       var arg = arguments[key]
       for (var key in arg) {
-				if (hasOwn.call(arg, key) && arg[key] === true) {
-					styles.push(parseInt(key))
-				}
-			}
+        if (hasOwn.call(arg, key) && arg[key] === true) {
+          styles.push(parseInt(key))
+        }
+      }
     } else {
       styles.push(arguments[key])
     }
