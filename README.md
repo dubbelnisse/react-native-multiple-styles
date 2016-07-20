@@ -1,1 +1,1 @@
-# react-native-styles
+# react-native-multiple-styles
